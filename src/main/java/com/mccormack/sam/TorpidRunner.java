@@ -1,7 +1,9 @@
 package com.mccormack.sam;
 
-public class TorpidRunner {
-    public static void main(String[] args) {
+import static java.lang.Float.NaN;
 
+public class TorpidRunner {
+    public static float getProbabilityOfEvenPermutation(int numberOfCompetitors, int lengthOfCourse) {
+        return NaN;
     }
 }
